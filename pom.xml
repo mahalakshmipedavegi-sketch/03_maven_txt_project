@@ -21,6 +21,12 @@
     <version>9.2.0</version>
 </dependency>
 </dependency>
+<!-- https://mvnrepository.com/artifact/com.sonatype.central.testing.amazon/aws-endpoint-iossimulatorarm64 -->
+<dependency>
+    <groupId>com.sonatype.central.testing.amazon</groupId>
+    <artifactId>aws-endpoint-iossimulatorarm64</artifactId>
+    <version>1.5.67</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>03-Maven-App</finalName>
